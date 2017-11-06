@@ -1,3 +1,1 @@
-# demo
-## demo2
-### demo3
+This file is Cinga's everyday work plan, summary and thinking.
