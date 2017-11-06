@@ -1,0 +1,4 @@
+echo >filename		//new file in present directory
+rm filename			//delete file
+md directoryname		//new directory in present directory
+rd directoryname		//delete directory
